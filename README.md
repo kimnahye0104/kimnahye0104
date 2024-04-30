@@ -1,5 +1,6 @@
 # 안녕하세요. 웹 공부하는 김나혜 입니다!😊
-### 중요한 건 꺾이지 않는 뒷목...자세를 바르게 하자
+## 중요한 건 꺾이지 않는 뒷목...자세를 바르게 하자
+### 속도보다 중요한 것 깔끔, 태그 적게, 사용자 입장, 웹접근성 고려
 <!--
 **kimnahye0104/kimnahye0104** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
